@@ -1,0 +1,22 @@
+.rab-row {
+	margin: 0px;
+	display: flex;
+}
+
+.rab-col {
+	padding: 5px;
+	border: 1px solid #CCCCCC;
+	min-height: 45px;
+	line-height: 29px;
+}
+
+.v-center {
+	
+	vertical-align:middle;
+}
+
+.checkbox-custom {
+	cursor: pointer;
+	margin-left: 0px;
+	margin-bottom: 0px;
+}
